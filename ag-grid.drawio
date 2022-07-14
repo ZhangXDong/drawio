@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T03:46:03.404Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="DFLJ08irk9xIsZ_hBZqI" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-14T03:54:01.372Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="pZbyIIZkSKlBohdWXAUU" version="20.0.4" type="github">
   <diagram id="kPlVngTC4E1ux1yeD-od" name="第 1 页">
     <mxGraphModel dx="1663" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,17 +51,17 @@
         <mxCell id="kSlolGZmXo0k-QizPRNo-18" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;portals&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1000" y="130" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kSlolGZmXo0k-QizPRNo-19" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;gridCoreCreator&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;create&lt;/span&gt;(&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #e06c75;&quot;&gt;eGui&lt;/span&gt;.&lt;span style=&quot;color: #e06c75;&quot;&gt;current&lt;/span&gt;&lt;span style=&quot;color: #56b6c2;&quot;&gt;!&lt;/span&gt;, &lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #e06c75;&quot;&gt;gridOptions&lt;/span&gt;, createUiCallback, acceptChangesCallback, gridParams);&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="600" y="320" width="970" height="40" as="geometry" />
+        <mxCell id="kSlolGZmXo0k-QizPRNo-19" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;gridCoreCreator&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;create&lt;/span&gt;(&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #e06c75;&quot;&gt;eGui&lt;/span&gt;.&lt;span style=&quot;color: #e06c75;&quot;&gt;current&lt;/span&gt;&lt;span style=&quot;color: #56b6c2;&quot;&gt;!&lt;/span&gt;, &lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #e06c75;&quot;&gt;gridOptions&lt;/span&gt;, createUiCallback, acceptChangesCallback, gridParams);&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="606" y="428" width="970" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kSlolGZmXo0k-QizPRNo-20" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;createUiCallback&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="610" y="160" width="130" height="30" as="geometry" />
+          <mxGeometry x="610" y="200" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kSlolGZmXo0k-QizPRNo-21" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;acceptChangesCallback&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="607" y="200" width="180" height="30" as="geometry" />
+          <mxGeometry x="607" y="280" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kSlolGZmXo0k-QizPRNo-22" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #d19a66;&quot;&gt;gridParams&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="607" y="250" width="90" height="30" as="geometry" />
+        <mxCell id="kSlolGZmXo0k-QizPRNo-22" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #d19a66;&quot;&gt;gridParams&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="607" y="358" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kSlolGZmXo0k-QizPRNo-23" value="props发生变化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="40" y="1040" width="110" height="30" as="geometry" />
@@ -189,6 +189,15 @@
         <mxCell id="0tuw1Yxkpa_ynFboBWTT-23" value="UI回调" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1920" y="600" width="60" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0tuw1Yxkpa_ynFboBWTT-24" target="kSlolGZmXo0k-QizPRNo-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1350" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1620" y="635" />
+              <mxPoint x="1620" y="215" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="0tuw1Yxkpa_ynFboBWTT-24" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;createUi&lt;/span&gt;(context);&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1920" y="620" width="160" height="30" as="geometry" />
         </mxCell>
@@ -197,6 +206,21 @@
         </mxCell>
         <mxCell id="0tuw1Yxkpa_ynFboBWTT-26" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div&gt;beans.&lt;span style=&quot;color: #e06c75;&quot;&gt;ctrlsService&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;whenReady&lt;/span&gt;(() &lt;span style=&quot;color: #c678dd;&quot;&gt;=&amp;gt;&lt;/span&gt; {&lt;/div&gt;&lt;div&gt;            &lt;span style=&quot;color: #5c6370;font-style: italic;&quot;&gt;&amp;nbsp; // 设置 columnDefs 数据，调用&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(224, 108, 117);&quot;&gt;rowModel.start()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;            &lt;span style=&quot;color: #e06c75;&quot;&gt;&amp;nbsp; this&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;setColumnsAndData&lt;/span&gt;(beans);&lt;/div&gt;&lt;div&gt;            &lt;span style=&quot;color: #5c6370;font-style: italic;&quot;&gt;&amp;nbsp; // 触发 grid ready 事件&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;            &lt;span style=&quot;color: #e06c75;&quot;&gt;&amp;nbsp; this&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;dispatchGridReadyEvent&lt;/span&gt;(beans, gridOptions);&lt;/div&gt;&lt;div&gt;        });&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1920" y="710" width="420" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-29" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="570" y="180" width="20" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-30" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;setState&lt;/span&gt;({context&lt;span style=&quot;color: #56b6c2;&quot;&gt;:&lt;/span&gt; context});&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="188" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-31" value="设置context ，重新渲染" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="158" width="140" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-32" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;ctrlsService&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;whenReady(callback)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-33" value="控制器ready后，设置api和columnApi" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="210" width="260" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
