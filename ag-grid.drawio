@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T03:54:01.372Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="pZbyIIZkSKlBohdWXAUU" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-14T05:55:01.100Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="KzITjd9K707AG9niGZ-m" version="20.0.4" type="github">
   <diagram id="kPlVngTC4E1ux1yeD-od" name="第 1 页">
     <mxGraphModel dx="1663" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -221,6 +221,12 @@
         </mxCell>
         <mxCell id="0tuw1Yxkpa_ynFboBWTT-33" value="控制器ready后，设置api和columnApi" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="210" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-34" value="属性变动回调" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1925" y="900" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-35" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;span style=&quot;color: rgb(97, 175, 239);&quot;&gt;acceptChanges&lt;/span&gt;(context);&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1925" y="920" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
