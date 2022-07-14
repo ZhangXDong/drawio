@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T05:55:01.100Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="KzITjd9K707AG9niGZ-m" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-14T09:15:03.021Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="smtt6jjB_vesMuaZEC7H" version="20.0.4" type="github">
   <diagram id="kPlVngTC4E1ux1yeD-od" name="第 1 页">
-    <mxGraphModel dx="1663" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2490" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -172,16 +172,16 @@
           <mxGeometry x="2630" y="40" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0tuw1Yxkpa_ynFboBWTT-17" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #5c6370;font-style: italic;&quot;&gt;1. 实例化，维护一个beanWrappers映射关&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(92, 99, 112); font-style: italic;&quot;&gt;2. 挂载属性和方法，调用生命周期&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2680" y="95" width="290" height="55" as="geometry" />
+          <mxGeometry x="2680" y="95" width="430" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="0tuw1Yxkpa_ynFboBWTT-18" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;span style=&quot;color: rgb(92, 99, 112); font-style: italic;&quot;&gt;维护一个 beanWrappers 映射关系，为映射中每个 beanEntry 对象进行实例化&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-18" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;span style=&quot;color: rgb(92, 99, 112); font-style: italic;&quot;&gt;1. 维护一个 beanWrappers 映射关系，为映射中每个 beanEntry 对象进行实例化&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2680" y="170" width="570" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0tuw1Yxkpa_ynFboBWTT-19" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;createBeans&lt;/span&gt;();&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2680" y="200" width="170" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="0tuw1Yxkpa_ynFboBWTT-20" value="挂载属性方法、调用生命周期" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2680" y="258" width="180" height="42" as="geometry" />
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-20" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #5c6370;font-style: italic;&quot;&gt;2. 绑定属性方法、调用生命周期&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="258" width="260" height="32" as="geometry" />
         </mxCell>
         <mxCell id="0tuw1Yxkpa_ynFboBWTT-21" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;wireBeans&lt;/span&gt;(beanInstances);&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2680" y="288" width="270" height="32" as="geometry" />
@@ -210,13 +210,16 @@
         <mxCell id="0tuw1Yxkpa_ynFboBWTT-29" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;size=0.5;" vertex="1" parent="1">
           <mxGeometry x="570" y="180" width="20" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0tuw1Yxkpa_ynFboBWTT-30" target="0tuw1Yxkpa_ynFboBWTT-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0tuw1Yxkpa_ynFboBWTT-30" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;setState&lt;/span&gt;({context&lt;span style=&quot;color: #56b6c2;&quot;&gt;:&lt;/span&gt; context});&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="188" width="290" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0tuw1Yxkpa_ynFboBWTT-31" value="设置context ，重新渲染" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="158" width="140" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="0tuw1Yxkpa_ynFboBWTT-32" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;ctrlsService&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;whenReady(callback)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-32" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;ctrlsService&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;whenReady(callback)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="240" width="290" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0tuw1Yxkpa_ynFboBWTT-33" value="控制器ready后，设置api和columnApi" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -227,6 +230,63 @@
         </mxCell>
         <mxCell id="0tuw1Yxkpa_ynFboBWTT-35" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;span style=&quot;color: rgb(97, 175, 239);&quot;&gt;acceptChanges&lt;/span&gt;(context);&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1925" y="920" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-36" value="GridComp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1170" y="72" width="340" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-38" value="触发重新渲染" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="27.5" y="170" width="102.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-39" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;context&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;createBean&lt;/span&gt;(&lt;span style=&quot;color: #c678dd;&quot;&gt;new&lt;/span&gt; &lt;span style=&quot;color: #61afef;&quot;&gt;GridCtrl&lt;/span&gt;())&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-897" y="142" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-40" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;gridCtrl&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;setComp&lt;/span&gt;(compProxy, &lt;span style=&quot;color: #e06c75;&quot;&gt;eRootWrapperRef&lt;/span&gt;.&lt;span style=&quot;color: #e06c75;&quot;&gt;current&lt;/span&gt;&lt;span style=&quot;color: #56b6c2;&quot;&gt;!&lt;/span&gt;, &lt;span style=&quot;color: #e06c75;&quot;&gt;eRootWrapperRef&lt;/span&gt;.&lt;span style=&quot;color: #e06c75;&quot;&gt;current&lt;/span&gt;&lt;span style=&quot;color: #56b6c2;&quot;&gt;!&lt;/span&gt;);&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-897" y="202" width="680" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-41" value="GridCtrl 控制器挂载，绑定属性和方法，调用生命周期" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-897" y="117" width="290" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-42" value="GridCtrl 控制器挂载，绑定属性和方法，调用生命周期" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-897" y="177" width="290" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0tuw1Yxkpa_ynFboBWTT-43" target="0tuw1Yxkpa_ynFboBWTT-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-43" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;setInitialised&lt;/span&gt;(&lt;span style=&quot;color: #d19a66;&quot;&gt;true&lt;/span&gt;);&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-897" y="265" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-44" value="标记初始化完成，组件可以渲染了" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-897" y="240" width="290" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-45" value="TabGuardComp组件渲染" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-898" y="365" width="150" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-47" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #c678dd;&quot;&gt;new&lt;/span&gt; &lt;span style=&quot;color: #61afef;&quot;&gt;TabGuardCtrl&lt;/span&gt;(）&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-830" y="445.5" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-48" value="挂载控制器，绑定属性方法，触发生命周期" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-830" y="420.5" width="290" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0tuw1Yxkpa_ynFboBWTT-49" target="0tuw1Yxkpa_ynFboBWTT-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-49" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;useImperativeHandle&lt;/span&gt;(forwardRef, () &lt;span style=&quot;color: #c678dd;&quot;&gt;=&amp;gt;&lt;/span&gt; ({&lt;/div&gt;&lt;div&gt;        &lt;span style=&quot;color: #61afef;&quot;&gt;&amp;nbsp; forceFocusOutOfContainer&lt;/span&gt;() {&lt;/div&gt;&lt;div&gt;            &lt;span style=&quot;color: #e06c75;&quot;&gt;&amp;nbsp; &amp;nbsp; tabGuardCtrlRef&lt;/span&gt;.&lt;span style=&quot;color: #e06c75;&quot;&gt;current&lt;/span&gt;&lt;span style=&quot;color: #56b6c2;&quot;&gt;!&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;forceFocusOutOfContainer&lt;/span&gt;();&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: #5c6370;font-style: italic;&quot;&gt;// 调用 TabGuardCtrl 实例的 forceFocusOutOfContainer 方法&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; }&lt;/div&gt;&lt;div&gt;    }));&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-830" y="520" width="497" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-50" value="传递给父组件" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-830" y="490" width="290" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-51" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div&gt;&amp;lt;&amp;gt;&lt;/div&gt;&lt;div&gt;            &lt;span style=&quot;color: #be5046;&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;createTabGuard&lt;/span&gt;(&lt;span style=&quot;color: #98c379;&quot;&gt;&#39;top&#39;&lt;/span&gt;)&lt;span style=&quot;color: #be5046;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;div&gt;            &lt;span style=&quot;color: #be5046;&quot;&gt;{&lt;/span&gt; children &lt;span style=&quot;color: #be5046;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;div&gt;            &lt;span style=&quot;color: #be5046;&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;createTabGuard&lt;/span&gt;(&lt;span style=&quot;color: #98c379;&quot;&gt;&#39;bottom&#39;&lt;/span&gt;)&lt;span style=&quot;color: #be5046;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;div&gt;        &amp;lt;/&amp;gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-830" y="692.5" width="500" height="107.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-52" value="渲染组件" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-830" y="667.5" width="290" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-53" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;agStackComponentsRegistry&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;getComponentClass&lt;/span&gt;(&lt;span style=&quot;color: #98c379;&quot;&gt;&#39;AG-GRID-HEADER-DROP-ZONES&#39;&lt;/span&gt;)&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1370" y="140" width="200" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-54" value="依次挂载5个类，绑定属性方法，调用生命周期" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1370" y="118" width="290" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
