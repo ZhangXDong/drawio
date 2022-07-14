@@ -1,124 +1,202 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T11:07:27.861Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="j2fkJvYv8Z83V8_qRHAS" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-14T03:46:03.404Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="DFLJ08irk9xIsZ_hBZqI" version="20.0.4" type="github">
   <diagram id="kPlVngTC4E1ux1yeD-od" name="第 1 页">
-    <mxGraphModel dx="1697" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1663" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kSlolGZmXo0k-QizPRNo-1" value="&amp;lt;AgGridReact /&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kSlolGZmXo0k-QizPRNo-1" value="&amp;lt;AgGridReact /&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="110" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kSlolGZmXo0k-QizPRNo-2" value="组件挂载，传递参数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kSlolGZmXo0k-QizPRNo-2" value="组件挂载，传递参数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="65" y="60" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kSlolGZmXo0k-QizPRNo-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kSlolGZmXo0k-QizPRNo-3" target="kSlolGZmXo0k-QizPRNo-1">
+        <mxCell id="kSlolGZmXo0k-QizPRNo-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kSlolGZmXo0k-QizPRNo-3" target="kSlolGZmXo0k-QizPRNo-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kSlolGZmXo0k-QizPRNo-3" value="AgGridReact Class" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kSlolGZmXo0k-QizPRNo-3" value="AgGridReact Class" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="40" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kSlolGZmXo0k-QizPRNo-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kSlolGZmXo0k-QizPRNo-4" target="kSlolGZmXo0k-QizPRNo-3">
+        <mxCell id="kSlolGZmXo0k-QizPRNo-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kSlolGZmXo0k-QizPRNo-4" target="kSlolGZmXo0k-QizPRNo-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kSlolGZmXo0k-QizPRNo-4" value="AgGridReactUi Class" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kSlolGZmXo0k-QizPRNo-4" value="AgGridReactUi Class" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="40" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kSlolGZmXo0k-QizPRNo-7" value="props&lt;br&gt;setGridApi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kSlolGZmXo0k-QizPRNo-7" value="props&lt;br&gt;setGridApi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="30" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kSlolGZmXo0k-QizPRNo-10" value="api&lt;br&gt;columnApi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kSlolGZmXo0k-QizPRNo-10" value="api&lt;br&gt;columnApi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="365" y="10" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kSlolGZmXo0k-QizPRNo-11" value="constructor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kSlolGZmXo0k-QizPRNo-11" value="constructor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="610" y="100" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kSlolGZmXo0k-QizPRNo-12" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;size=0.5;" vertex="1" parent="1">
+        <mxCell id="kSlolGZmXo0k-QizPRNo-12" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;size=0.5;" parent="1" vertex="1">
           <mxGeometry x="680" y="90" width="20" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="kSlolGZmXo0k-QizPRNo-13" value="生成 portalManager实例" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kSlolGZmXo0k-QizPRNo-13" value="生成 portalManager实例" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="700" y="90" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kSlolGZmXo0k-QizPRNo-14" value="销毁函数集合destoryFuncs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kSlolGZmXo0k-QizPRNo-14" value="销毁函数集合destoryFuncs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="697" y="117.5" width="160" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="kSlolGZmXo0k-QizPRNo-16" value="portalManager Class" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kSlolGZmXo0k-QizPRNo-16" value="portalManager Class" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1000" y="40" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kSlolGZmXo0k-QizPRNo-17" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;mountReactPortal&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kSlolGZmXo0k-QizPRNo-17" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;mountReactPortal&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1019" y="100" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kSlolGZmXo0k-QizPRNo-18" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;portals&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kSlolGZmXo0k-QizPRNo-18" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;portals&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1000" y="130" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kSlolGZmXo0k-QizPRNo-19" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;gridCoreCreator&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;create&lt;/span&gt;(&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #e06c75;&quot;&gt;eGui&lt;/span&gt;.&lt;span style=&quot;color: #e06c75;&quot;&gt;current&lt;/span&gt;&lt;span style=&quot;color: #56b6c2;&quot;&gt;!&lt;/span&gt;, &lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #e06c75;&quot;&gt;gridOptions&lt;/span&gt;, createUiCallback, acceptChangesCallback, gridParams);&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kSlolGZmXo0k-QizPRNo-19" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;gridCoreCreator&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;create&lt;/span&gt;(&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #e06c75;&quot;&gt;eGui&lt;/span&gt;.&lt;span style=&quot;color: #e06c75;&quot;&gt;current&lt;/span&gt;&lt;span style=&quot;color: #56b6c2;&quot;&gt;!&lt;/span&gt;, &lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #e06c75;&quot;&gt;gridOptions&lt;/span&gt;, createUiCallback, acceptChangesCallback, gridParams);&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="600" y="320" width="970" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kSlolGZmXo0k-QizPRNo-20" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;createUiCallback&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kSlolGZmXo0k-QizPRNo-20" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;createUiCallback&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="610" y="160" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kSlolGZmXo0k-QizPRNo-21" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;acceptChangesCallback&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kSlolGZmXo0k-QizPRNo-21" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;acceptChangesCallback&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="607" y="200" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kSlolGZmXo0k-QizPRNo-22" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #d19a66;&quot;&gt;gridParams&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kSlolGZmXo0k-QizPRNo-22" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #d19a66;&quot;&gt;gridParams&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="607" y="250" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kSlolGZmXo0k-QizPRNo-23" value="props发生变化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="kSlolGZmXo0k-QizPRNo-23" value="props发生变化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="40" y="1040" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kSlolGZmXo0k-QizPRNo-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kSlolGZmXo0k-QizPRNo-24" target="kSlolGZmXo0k-QizPRNo-25">
+        <mxCell id="kSlolGZmXo0k-QizPRNo-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kSlolGZmXo0k-QizPRNo-24" target="kSlolGZmXo0k-QizPRNo-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kSlolGZmXo0k-QizPRNo-24" value="agGridReactUi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kSlolGZmXo0k-QizPRNo-24" value="agGridReactUi" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="1090" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kSlolGZmXo0k-QizPRNo-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kSlolGZmXo0k-QizPRNo-25" target="kSlolGZmXo0k-QizPRNo-29">
+        <mxCell id="kSlolGZmXo0k-QizPRNo-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kSlolGZmXo0k-QizPRNo-25" target="kSlolGZmXo0k-QizPRNo-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kSlolGZmXo0k-QizPRNo-25" value="componentDidUpdate" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="kSlolGZmXo0k-QizPRNo-25" value="componentDidUpdate" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="23.75" y="1190" width="142.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kSlolGZmXo0k-QizPRNo-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kSlolGZmXo0k-QizPRNo-29" target="kSlolGZmXo0k-QizPRNo-32">
+        <mxCell id="kSlolGZmXo0k-QizPRNo-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kSlolGZmXo0k-QizPRNo-29" target="kSlolGZmXo0k-QizPRNo-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kSlolGZmXo0k-QizPRNo-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kSlolGZmXo0k-QizPRNo-29" target="kSlolGZmXo0k-QizPRNo-33">
+        <mxCell id="kSlolGZmXo0k-QizPRNo-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kSlolGZmXo0k-QizPRNo-29" target="kSlolGZmXo0k-QizPRNo-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kSlolGZmXo0k-QizPRNo-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kSlolGZmXo0k-QizPRNo-29" target="kSlolGZmXo0k-QizPRNo-34">
+        <mxCell id="kSlolGZmXo0k-QizPRNo-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="kSlolGZmXo0k-QizPRNo-29" target="kSlolGZmXo0k-QizPRNo-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kSlolGZmXo0k-QizPRNo-29" value="processPropsChanges 处理属性" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="kSlolGZmXo0k-QizPRNo-29" value="processPropsChanges 处理属性" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="27.5" y="1290" width="135" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kSlolGZmXo0k-QizPRNo-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kSlolGZmXo0k-QizPRNo-32" target="kSlolGZmXo0k-QizPRNo-39">
+        <mxCell id="kSlolGZmXo0k-QizPRNo-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kSlolGZmXo0k-QizPRNo-32" target="kSlolGZmXo0k-QizPRNo-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kSlolGZmXo0k-QizPRNo-32" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;extractGridPropertyChanges&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kSlolGZmXo0k-QizPRNo-32" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;extractGridPropertyChanges&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-320" y="1410" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kSlolGZmXo0k-QizPRNo-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kSlolGZmXo0k-QizPRNo-33" target="kSlolGZmXo0k-QizPRNo-41">
+        <mxCell id="kSlolGZmXo0k-QizPRNo-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="kSlolGZmXo0k-QizPRNo-33" target="kSlolGZmXo0k-QizPRNo-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kSlolGZmXo0k-QizPRNo-33" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;extractDeclarativeColDefChanges&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kSlolGZmXo0k-QizPRNo-33" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;extractDeclarativeColDefChanges&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-50" y="1410" width="290" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kSlolGZmXo0k-QizPRNo-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kSlolGZmXo0k-QizPRNo-34" target="kSlolGZmXo0k-QizPRNo-42">
+        <mxCell id="kSlolGZmXo0k-QizPRNo-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="kSlolGZmXo0k-QizPRNo-34" target="kSlolGZmXo0k-QizPRNo-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kSlolGZmXo0k-QizPRNo-34" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;processChanges&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kSlolGZmXo0k-QizPRNo-34" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;processChanges&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="298.5" y="1410" width="131.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kSlolGZmXo0k-QizPRNo-39" value="1. 获取属性比对策略，添加新旧值到changes&lt;br&gt;2. eventCallbacks，添加到changes（onXxx）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kSlolGZmXo0k-QizPRNo-39" value="1. 获取属性比对策略，添加新旧值到changes&lt;br&gt;2. eventCallbacks，添加到changes（onXxx）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-305" y="1510" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="kSlolGZmXo0k-QizPRNo-41" value="1.&lt;span style=&quot;color: rgb(152, 195, 121); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px;&quot;&gt;columnDefs&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;列定义发生改变，添加新旧值到changes&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kSlolGZmXo0k-QizPRNo-41" value="1.&lt;span style=&quot;color: rgb(152, 195, 121); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px;&quot;&gt;columnDefs&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;列定义发生改变，添加新旧值到changes&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-5" y="1510" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="kSlolGZmXo0k-QizPRNo-42" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;ComponentUtil&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;processOnChange&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;(changes, &lt;/span&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;gridOptions&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;api&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;columnApi&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kSlolGZmXo0k-QizPRNo-42" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;ComponentUtil&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;processOnChange&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;(changes, &lt;/span&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;gridOptions&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;api&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;columnApi&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="180" y="1510" width="369" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="kSlolGZmXo0k-QizPRNo-45" value="调用ComponentUtil的处理方法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kSlolGZmXo0k-QizPRNo-45" value="调用ComponentUtil的处理方法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="370" y="1470" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-1" value="core" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="40" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-2" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;getRegisteredModules&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="118" width="230" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-3" value="注册模块" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="90" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-4" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;createBeansList&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="188" width="230" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-5" value="bean列表 - beanClasses" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="160" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-6" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;createProvidedBeans&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="258" width="230" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-7" value="bean 对象" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="230" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0tuw1Yxkpa_ynFboBWTT-8" target="0tuw1Yxkpa_ynFboBWTT-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-8" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #c678dd;&quot;&gt;new&lt;/span&gt; &lt;span style=&quot;color: #61afef;&quot;&gt;Context&lt;/span&gt;(contextParams, contextLogger)&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="328" width="360" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-9" value="context" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="300" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-10" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;registerModuleUserComponents&lt;/span&gt;(beans, registeredModules);&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="398" width="520" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-11" value="注册用户组件到映射表" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="370" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-12" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;registerStackComponents&lt;/span&gt;(beans, registeredModules);&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="468" width="500" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-13" value="注册堆组件到映射表" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="440" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-14" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;registerControllers&lt;/span&gt;(beans, registeredModules);&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="538" width="470" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-15" value="注册控制器组件到映射表" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="510" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-16" value="context" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2630" y="40" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-17" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #5c6370;font-style: italic;&quot;&gt;1. 实例化，维护一个beanWrappers映射关&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(92, 99, 112); font-style: italic;&quot;&gt;2. 挂载属性和方法，调用生命周期&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="95" width="290" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-18" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;span style=&quot;color: rgb(92, 99, 112); font-style: italic;&quot;&gt;维护一个 beanWrappers 映射关系，为映射中每个 beanEntry 对象进行实例化&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="170" width="570" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-19" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;createBeans&lt;/span&gt;();&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="200" width="170" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-20" value="挂载属性方法、调用生命周期" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="258" width="180" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-21" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;wireBeans&lt;/span&gt;(beanInstances);&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="288" width="270" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-23" value="UI回调" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="600" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-24" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;createUi&lt;/span&gt;(context);&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="620" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-25" value="控制器注册完成后的回调" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="680" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0tuw1Yxkpa_ynFboBWTT-26" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div&gt;beans.&lt;span style=&quot;color: #e06c75;&quot;&gt;ctrlsService&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;whenReady&lt;/span&gt;(() &lt;span style=&quot;color: #c678dd;&quot;&gt;=&amp;gt;&lt;/span&gt; {&lt;/div&gt;&lt;div&gt;            &lt;span style=&quot;color: #5c6370;font-style: italic;&quot;&gt;&amp;nbsp; // 设置 columnDefs 数据，调用&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(224, 108, 117);&quot;&gt;rowModel.start()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;            &lt;span style=&quot;color: #e06c75;&quot;&gt;&amp;nbsp; this&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;setColumnsAndData&lt;/span&gt;(beans);&lt;/div&gt;&lt;div&gt;            &lt;span style=&quot;color: #5c6370;font-style: italic;&quot;&gt;&amp;nbsp; // 触发 grid ready 事件&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;            &lt;span style=&quot;color: #e06c75;&quot;&gt;&amp;nbsp; this&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;dispatchGridReadyEvent&lt;/span&gt;(beans, gridOptions);&lt;/div&gt;&lt;div&gt;        });&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="710" width="420" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
