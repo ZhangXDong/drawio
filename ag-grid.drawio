@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T07:40:11.249Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="ag4TEVPcwgdxBndizioU" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-15T07:55:05.887Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="Jmmhv31VHW-l-aPJQP-T" version="20.1.1" type="github">
   <diagram id="kPlVngTC4E1ux1yeD-od" name="第 1 页">
     <mxGraphModel dx="5008" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -531,7 +531,7 @@
         <mxCell id="YpnpPWq_37PcjdxQMvB1-46" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;enableRtl 为 true 时，设置水平滚动的偏移量&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-3520" y="1140" width="640" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="YpnpPWq_37PcjdxQMvB1-47" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;绑定监听滚动&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="YpnpPWq_37PcjdxQMvB1-47" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;绑定监听滚动，绑定横纵向滚动回调&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-3520" y="1205" width="640" height="29" as="geometry" />
         </mxCell>
       </root>
