@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T07:28:35.083Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="p5GUdCB5zb2xHjJ7mSsp" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-15T07:40:11.249Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="ag4TEVPcwgdxBndizioU" version="20.1.1" type="github">
   <diagram id="kPlVngTC4E1ux1yeD-od" name="第 1 页">
-    <mxGraphModel dx="4181" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5008" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -418,6 +418,14 @@
         <mxCell id="YpnpPWq_37PcjdxQMvB1-8" value="滚动条相关" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2280" y="1064" width="190" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="YpnpPWq_37PcjdxQMvB1-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YpnpPWq_37PcjdxQMvB1-9" target="YpnpPWq_37PcjdxQMvB1-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2790" y="1109" />
+              <mxPoint x="-2790" y="893" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YpnpPWq_37PcjdxQMvB1-9" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #e06c75;&quot;&gt;bodyScrollFeature&lt;/span&gt; &lt;span style=&quot;color: #56b6c2;&quot;&gt;=&lt;/span&gt; &lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;createManagedBean&lt;/span&gt;(&lt;span style=&quot;color: #c678dd;&quot;&gt;new&lt;/span&gt; &lt;span style=&quot;color: #61afef;&quot;&gt;GridBodyScrollFeature&lt;/span&gt;(&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #e06c75;&quot;&gt;eBodyViewport&lt;/span&gt;));&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2280" y="1088" width="640" height="42" as="geometry" />
         </mxCell>
@@ -495,6 +503,36 @@
         </mxCell>
         <mxCell id="YpnpPWq_37PcjdxQMvB1-35" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;updateLayoutClasses()&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2720" y="1024" width="340" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="YpnpPWq_37PcjdxQMvB1-36" value="GridBodyScrollFeature" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3550" y="875.25" width="160" height="34.75" as="geometry" />
+        </mxCell>
+        <mxCell id="YpnpPWq_37PcjdxQMvB1-39" value="绑定属性方法，调用生命周期" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3230" y="860" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YpnpPWq_37PcjdxQMvB1-40" value="调用生命周期方法，绑定滚动事件" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-3520" y="918" width="470" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="YpnpPWq_37PcjdxQMvB1-41" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;绑定 columns change 时触发的事件（放到 eventService 队列中，column变动时 dispatch）&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-3520" y="964" width="640" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="YpnpPWq_37PcjdxQMvB1-42" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;addManagedListener&lt;/span&gt;(&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #e06c75;&quot;&gt;eventService&lt;/span&gt;, Events.&lt;span style=&quot;color: #d19a66;&quot;&gt;EVENT_DISPLAYED_COLUMNS_WIDTH_CHANGED&lt;/span&gt;, &lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #e06c75;&quot;&gt;onDisplayedColumnsWidthChanged&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;bind&lt;/span&gt;(&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;));&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3520" y="996" width="650" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="YpnpPWq_37PcjdxQMvB1-43" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;等到 ctrlsService ready 后&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-3520" y="1103" width="640" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="YpnpPWq_37PcjdxQMvB1-44" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;onDisplayedColumnsWidthChanged&lt;/span&gt;();&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3520" y="1164" width="640" height="29.5" as="geometry" />
+        </mxCell>
+        <mxCell id="YpnpPWq_37PcjdxQMvB1-45" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;addScrollListener&lt;/span&gt;();&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3520" y="1230" width="640" height="29.5" as="geometry" />
+        </mxCell>
+        <mxCell id="YpnpPWq_37PcjdxQMvB1-46" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;enableRtl 为 true 时，设置水平滚动的偏移量&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-3520" y="1140" width="640" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="YpnpPWq_37PcjdxQMvB1-47" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;绑定监听滚动&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-3520" y="1205" width="640" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
