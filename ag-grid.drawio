@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-16T03:10:10.610Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="VYC1W1SG1ZLWedNbqWlF" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-16T07:22:52.920Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="2POqPVNHfv3ScBEa5GPq" version="20.1.1" type="github">
   <diagram id="kPlVngTC4E1ux1yeD-od" name="第 1 页">
-    <mxGraphModel dx="5064" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6718" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -365,6 +365,9 @@
         <mxCell id="0tuw1Yxkpa_ynFboBWTT-80" value="注册 GridBodyCtrl 控制器" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1570" y="1050" width="180" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Q9LdLBGAAjyXaX9XHbBV-14" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0tuw1Yxkpa_ynFboBWTT-81" target="YpnpPWq_37PcjdxQMvB1-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0tuw1Yxkpa_ynFboBWTT-81" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;context&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;createBean&lt;/span&gt;(&lt;span style=&quot;color: #c678dd;&quot;&gt;new&lt;/span&gt; &lt;span style=&quot;color: #61afef;&quot;&gt;GridBodyCtrl&lt;/span&gt;());&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1570" y="1074" width="350" height="30" as="geometry" />
         </mxCell>
@@ -436,58 +439,58 @@
           <mxGeometry x="-2280" y="1174" width="630" height="26" as="geometry" />
         </mxCell>
         <mxCell id="YpnpPWq_37PcjdxQMvB1-12" value="启动行动画" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-2280" y="1223" width="190" height="20" as="geometry" />
+          <mxGeometry x="-2280" y="1390" width="190" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YpnpPWq_37PcjdxQMvB1-13" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;setupRowAnimationCssClass&lt;/span&gt;();&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-2280" y="1247" width="630" height="26" as="geometry" />
+          <mxGeometry x="-2280" y="1414" width="630" height="26" as="geometry" />
         </mxCell>
         <mxCell id="YpnpPWq_37PcjdxQMvB1-14" value="事件监听：1.columns发生变化 2.滚动条显隐 3.固定列变化 4.header高度变动" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-2280" y="1288" width="620" height="30" as="geometry" />
+          <mxGeometry x="-2280" y="1455" width="620" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YpnpPWq_37PcjdxQMvB1-15" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;addEventListeners&lt;/span&gt;();&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-2280" y="1314" width="630" height="26" as="geometry" />
+          <mxGeometry x="-2280" y="1481" width="630" height="26" as="geometry" />
         </mxCell>
         <mxCell id="YpnpPWq_37PcjdxQMvB1-16" value="聚焦事件监听：聚焦时，添加样式" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-2280" y="1362" width="620" height="30" as="geometry" />
+          <mxGeometry x="-2280" y="1529" width="620" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YpnpPWq_37PcjdxQMvB1-17" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;addFocusListeners&lt;/span&gt;([eTop, eBodyViewport, eBottom, eStickyTop]);&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-2280" y="1388" width="630" height="26" as="geometry" />
+          <mxGeometry x="-2280" y="1555" width="630" height="26" as="geometry" />
         </mxCell>
         <mxCell id="YpnpPWq_37PcjdxQMvB1-18" value="初始化，设置列数量" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-2280" y="1430" width="620" height="30" as="geometry" />
+          <mxGeometry x="-2280" y="1597" width="620" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YpnpPWq_37PcjdxQMvB1-19" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;onGridColumnsChanged&lt;/span&gt;();&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-2280" y="1456" width="630" height="26" as="geometry" />
+          <mxGeometry x="-2280" y="1623" width="630" height="26" as="geometry" />
         </mxCell>
         <mxCell id="YpnpPWq_37PcjdxQMvB1-20" value="表格body区域，事件监听：滚轮等" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-2280" y="1510" width="620" height="30" as="geometry" />
+          <mxGeometry x="-2280" y="1677" width="620" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YpnpPWq_37PcjdxQMvB1-21" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;addBodyViewportListener&lt;/span&gt;();&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-2280" y="1536" width="630" height="26" as="geometry" />
+          <mxGeometry x="-2280" y="1703" width="630" height="26" as="geometry" />
         </mxCell>
         <mxCell id="YpnpPWq_37PcjdxQMvB1-22" value="设置 浮动 高度" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-2280" y="1580" width="620" height="30" as="geometry" />
+          <mxGeometry x="-2280" y="1747" width="620" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YpnpPWq_37PcjdxQMvB1-23" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;setFloatingHeights&lt;/span&gt;();&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-2280" y="1606" width="630" height="26" as="geometry" />
+          <mxGeometry x="-2280" y="1773" width="630" height="26" as="geometry" />
         </mxCell>
         <mxCell id="YpnpPWq_37PcjdxQMvB1-24" value="禁止浏览器拖拽" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-2280" y="1650" width="620" height="30" as="geometry" />
+          <mxGeometry x="-2280" y="1817" width="620" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YpnpPWq_37PcjdxQMvB1-25" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;disableBrowserDragging&lt;/span&gt;();&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-2280" y="1676" width="630" height="26" as="geometry" />
+          <mxGeometry x="-2280" y="1843" width="630" height="26" as="geometry" />
         </mxCell>
         <mxCell id="YpnpPWq_37PcjdxQMvB1-26" value="Grid失去焦点，禁用编辑" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-2280" y="1720" width="620" height="30" as="geometry" />
+          <mxGeometry x="-2280" y="1887" width="620" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YpnpPWq_37PcjdxQMvB1-27" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;addStopEditingWhenGridLosesFocus&lt;/span&gt;();&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-2280" y="1746" width="630" height="26" as="geometry" />
+          <mxGeometry x="-2280" y="1913" width="630" height="26" as="geometry" />
         </mxCell>
         <mxCell id="YpnpPWq_37PcjdxQMvB1-28" value="注册 GridBodyCtrl 控制器" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-2280" y="1810" width="620" height="30" as="geometry" />
+          <mxGeometry x="-2280" y="1977" width="620" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YpnpPWq_37PcjdxQMvB1-29" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #e06c75;&quot;&gt;ctrlsService&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;registerGridBodyCtrl&lt;/span&gt;(&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;);&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-2280" y="1840" width="630" height="22" as="geometry" />
+          <mxGeometry x="-2280" y="2007" width="630" height="22" as="geometry" />
         </mxCell>
         <mxCell id="YpnpPWq_37PcjdxQMvB1-30" value="LayoutFeature" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2750" y="875.25" width="130" height="38" as="geometry" />
@@ -536,6 +539,40 @@
         </mxCell>
         <mxCell id="Q9LdLBGAAjyXaX9XHbBV-3" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #c678dd;&quot;&gt;public&lt;/span&gt; &lt;span style=&quot;color: #61afef;&quot;&gt;horizontallyScrollHeaderCenterAndFloatingCenter&lt;/span&gt;(scrollLeft&lt;span style=&quot;color: #56b6c2;&quot;&gt;?:&lt;/span&gt; &lt;span style=&quot;color: #56b6c2;&quot;&gt;number&lt;/span&gt;)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-3450" y="1273" width="640" height="29.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9LdLBGAAjyXaX9XHbBV-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q9LdLBGAAjyXaX9XHbBV-4" target="Q9LdLBGAAjyXaX9XHbBV-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9LdLBGAAjyXaX9XHbBV-4" value="&lt;span style=&quot;color: rgb(97, 175, 239); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: left; background-color: rgb(40, 44, 52);&quot;&gt;RowDragFeature&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4240" y="875.25" width="160" height="34.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9LdLBGAAjyXaX9XHbBV-9" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q9LdLBGAAjyXaX9XHbBV-5" target="Q9LdLBGAAjyXaX9XHbBV-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3170" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q9LdLBGAAjyXaX9XHbBV-5" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #e06c75;&quot;&gt;rowDragFeature&lt;/span&gt; &lt;span style=&quot;color: #56b6c2;&quot;&gt;=&lt;/span&gt; &lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;createManagedBean&lt;/span&gt;(&lt;span style=&quot;color: #c678dd;&quot;&gt;new&lt;/span&gt; &lt;span style=&quot;color: #61afef;&quot;&gt;RowDragFeature&lt;/span&gt;(&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #e06c75;&quot;&gt;eBodyViewport&lt;/span&gt;));&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2197" y="1229" width="725" height="33.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9LdLBGAAjyXaX9XHbBV-6" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;挂载 行拖拽功能实例&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-2197" y="1205" width="640" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9LdLBGAAjyXaX9XHbBV-13" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q9LdLBGAAjyXaX9XHbBV-7" target="Q9LdLBGAAjyXaX9XHbBV-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-5320" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q9LdLBGAAjyXaX9XHbBV-7" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #e06c75;&quot;&gt;dragAndDropService&lt;/span&gt;.&lt;span style=&quot;color: #61afef;&quot;&gt;addDropTarget&lt;/span&gt;(&lt;span style=&quot;color: #e06c75;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #e06c75;&quot;&gt;rowDragFeature&lt;/span&gt;);&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2197" y="1304.75" width="725" height="33.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9LdLBGAAjyXaX9XHbBV-8" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;注册进去&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-2197" y="1280.75" width="640" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9LdLBGAAjyXaX9XHbBV-10" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;AutoScrollService&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4780" y="875.25" width="160" height="34.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9LdLBGAAjyXaX9XHbBV-12" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px;&quot;&gt;&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;dragAndDropService&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-5535" y="876.88" width="160" height="34.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
