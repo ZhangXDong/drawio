@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-07-18T03:10:40.223Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="6Ai7jef2blY0fmydOhGK" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-21T06:26:06.361Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="NUno2_lunTkFl2IPO5Dn" version="22.1.3" type="github">
   <diagram id="t3h843yoLkfb4mnD7kg4" name="第 1 页">
-    <mxGraphModel dx="883" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1228" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="N1HK9pEvKm8gfgns9m50-1" value="窗口期启动" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="180" width="130" height="40" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
