@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-02T05:59:16.770Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="3EUcTwOi5A2t54rE420W" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-02T06:08:48.796Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="xVvM3LUeG0WFs7ANBUSp" version="22.1.16" type="github">
   <diagram name="第 1 页" id="dlPJFF2X0IWA5hCCwlar">
     <mxGraphModel dx="1228" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -335,6 +335,12 @@
         </mxCell>
         <mxCell id="QY712nlO2Z2DFu7i5m6_-106" value="发布表状态为&amp;nbsp;REJECTED" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1119" y="1323" width="200" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="QY712nlO2Z2DFu7i5m6_-114" value="删除环境" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="450" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QY712nlO2Z2DFu7i5m6_-119" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;创建环境都做了啥&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;1、删除主应用对应环境；&lt;/p&gt;&lt;p&gt;2、删除主应用项目&lt;font color=&quot;#990000&quot;&gt;域名映射&lt;/font&gt;并发布&lt;/p&gt;&lt;p&gt;3、删除主应用&lt;font color=&quot;#990000&quot;&gt;apollo配置+common表&lt;/font&gt;创建&lt;/p&gt;&lt;p&gt;4、获取&lt;font color=&quot;#990000&quot;&gt;子应用列表&lt;/font&gt;，为每个子应用删除&lt;font color=&quot;#990000&quot;&gt;对应环境&lt;/font&gt;，并在&lt;font color=&quot;#990000&quot;&gt;app表中&lt;/font&gt;删除&lt;/p&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="450" width="330" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
